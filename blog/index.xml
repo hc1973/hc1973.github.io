@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Horace&#39;s first blog</title>
+    <link>https://hc1973.github.io/blog/</link>
+    <description>Recent content in Blogs on Horace&#39;s first blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Feb 2021 10:11:47 +0800</lastBuildDate><atom:link href="https://hc1973.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Use Mark Down Language, Hahow</title>
+      <link>https://hc1973.github.io/blog/test1/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/test1/</guid>
+      <description>hello word
+I am Horace
+title 1 title 2 title 3 title 4 title 5 title 6 I am horace.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Short Codes</title>
+      <link>https://hc1973.github.io/blog/shortcodes-test/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/shortcodes-test/</guid>
+      <description>[Shortcodes] (https://gohugo.io/content-management/shortcodes/#readout)     Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc.</description>
+    </item>
+    
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://hc1973.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/post-13/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hc1973.github.io/blog/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/test2/</guid>
+      <description>Hello world print(&amp;#34;hello world&amp;#34;) print(&amp;#34;hello Horace&amp;#34;) print(&amp;#34;hello world&amp;#34;) print(&amp;#34;hello Horace&amp;#34;) print(&amp;#34;hello world&amp;#34;) print(&amp;#34;hello Horace&amp;#34;) </description>
+    </item>
+    
+  </channel>
+</rss>
