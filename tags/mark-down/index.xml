@@ -27,5 +27,14 @@ title 1 title 2 title 3 title 4 title 5 title 6 I am horace.</description>
       <description>[Shortcodes] (https://gohugo.io/content-management/shortcodes/#readout)     Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc.</description>
     </item>
     
+    <item>
+      <title>My 2nd Posted Article</title>
+      <link>https://hc1973.github.io/blog/second/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/second/</guid>
+      <description>Excellent course for people who want to bulid their own professional and beautiful web site within half day!</description>
+    </item>
+    
   </channel>
 </rss>
