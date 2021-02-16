@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>練習 on Horace&#39;s first blog</title>
+    <link>https://hc1973.github.io/categories/%E7%B7%B4%E7%BF%92/</link>
+    <description>Recent content in 練習 on Horace&#39;s first blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Feb 2021 10:11:47 +0800</lastBuildDate><atom:link href="https://hc1973.github.io/categories/%E7%B7%B4%E7%BF%92/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Down的說明與練習</title>
+      <link>https://hc1973.github.io/blog/test1/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/test1/</guid>
+      <description>hello word
+I am Horace
+title 1 title 2 title 3 title 4 title 5 title 6 I am horace.</description>
+    </item>
+    
+    <item>
+      <title>My 2nd Posted Article</title>
+      <link>https://hc1973.github.io/blog/second/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/second/</guid>
+      <description>Excellent course for people who want to bulid their own professional and beautiful web site within half day!</description>
+    </item>
+    
+    <item>
+      <title>Short Code Lab</title>
+      <link>https://hc1973.github.io/blog/shortcodes-test/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/shortcodes-test/</guid>
+      <description>[Shortcodes] (https://gohugo.io/content-management/shortcodes/#readout)     Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc.</description>
+    </item>
+    
+  </channel>
+</rss>

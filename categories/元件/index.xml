@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>元件 on Horace&#39;s first blog</title>
+    <link>https://hc1973.github.io/categories/%E5%85%83%E4%BB%B6/</link>
+    <description>Recent content in 元件 on Horace&#39;s first blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 15 Feb 2021 10:11:47 +0800</lastBuildDate><atom:link href="https://hc1973.github.io/categories/%E5%85%83%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s MOSFET?</title>
+      <link>https://hc1973.github.io/blog/mosfet-2021-0216/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/mosfet-2021-0216/</guid>
+      <description>What&amp;rsquo;s MOSFET? 金屬氧化物半導體場效電晶體（簡稱：金氧半場效電晶體；英語：Metal-Oxide-Semiconductor Field-Effect Transistor，縮寫：MOSFET），是一種可以廣泛使用在類比電路與數位電路的場效電晶體。金屬氧化物半導體場效電晶體依照其通道極性的不同，可分為電子占多數的N通道型與電洞占多數的P通道型，通常被稱為N型金氧半場效電晶體（NMOSFET）與P型金氧半場效電晶體
+MOSFET在電子電路上應用的優勢 金氧半場效電晶體在1960年由貝爾實驗室的D. Kahng和Martin Atalla首次實作成功，這種元件的操作原理和1947年蕭克利等人發明的雙載子接面電晶體截然不同，且因為製造成本低廉與使用面積較小、高整合度的優勢，在大型積體電路或是超大型積體電路的領域裡，重要性遠超過BJT。
+近年來由於金氧半場效電晶體元件的效能逐漸提升，除了傳統上應用於諸如微處理器、微控制器等數位訊號處理的場合上，也有越來越多類比訊號處理的積體電路可以用金氧半場效電晶體來實現，以下分別介紹這些應用。</description>
+    </item>
+    
+  </channel>
+</rss>

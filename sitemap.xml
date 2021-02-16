@@ -28,11 +28,6 @@
   </url>
   
   <url>
-    <loc>https://hc1973.github.io/blog/shortcodes-test/</loc>
-    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hc1973.github.io/tags/mark-down/</loc>
     <lastmod>2021-02-15T10:11:47+08:00</lastmod>
   </url>
@@ -48,12 +43,42 @@
   </url>
   
   <url>
+    <loc>https://hc1973.github.io/blog/shortcodes-test/</loc>
+    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hc1973.github.io/tags/smu/</loc>
+    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hc1973.github.io/tags/</loc>
     <lastmod>2021-02-15T10:11:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hc1973.github.io/categories/%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://hc1973.github.io/blog/mosfet-2021-0216/</loc>
+    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hc1973.github.io/blog/smu-2021-0216/</loc>
+    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hc1973.github.io/categories/%E5%84%80%E5%99%A8/</loc>
+    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hc1973.github.io/categories/%E5%85%83%E4%BB%B6/</loc>
+    <lastmod>2021-02-15T10:11:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hc1973.github.io/categories/%E7%B7%B4%E7%BF%92/</loc>
     <lastmod>2021-02-15T10:11:47+08:00</lastmod>
   </url>
   
@@ -74,11 +99,6 @@
   
   <url>
     <loc>https://hc1973.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hc1973.github.io/categories/go-language/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
@@ -104,6 +124,11 @@
   
   <url>
     <loc>https://hc1973.github.io/tags/python/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hc1973.github.io/categories/%E7%AF%84%E6%9C%AC/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   

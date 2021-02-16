@@ -8,7 +8,7 @@
     <language>zh-tw</language>
     <lastBuildDate>Mon, 15 Feb 2021 10:11:47 +0800</lastBuildDate><atom:link href="https://hc1973.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To Use Mark Down Language, Hahow</title>
+      <title>Make Down的說明與練習</title>
       <link>https://hc1973.github.io/blog/test1/</link>
       <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
       
@@ -19,7 +19,16 @@ title 1 title 2 title 3 title 4 title 5 title 6 I am horace.</description>
     </item>
     
     <item>
-      <title>How To Use Short Codes</title>
+      <title>My 2nd Posted Article</title>
+      <link>https://hc1973.github.io/blog/second/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/second/</guid>
+      <description>Excellent course for people who want to bulid their own professional and beautiful web site within half day!</description>
+    </item>
+    
+    <item>
+      <title>Short Code Lab</title>
       <link>https://hc1973.github.io/blog/shortcodes-test/</link>
       <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
       
@@ -28,12 +37,23 @@ title 1 title 2 title 3 title 4 title 5 title 6 I am horace.</description>
     </item>
     
     <item>
-      <title>My 2nd Posted Article</title>
-      <link>https://hc1973.github.io/blog/second/</link>
+      <title>What&#39;s MOSFET?</title>
+      <link>https://hc1973.github.io/blog/mosfet-2021-0216/</link>
       <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
       
-      <guid>https://hc1973.github.io/blog/second/</guid>
-      <description>Excellent course for people who want to bulid their own professional and beautiful web site within half day!</description>
+      <guid>https://hc1973.github.io/blog/mosfet-2021-0216/</guid>
+      <description>What&amp;rsquo;s MOSFET? 金屬氧化物半導體場效電晶體（簡稱：金氧半場效電晶體；英語：Metal-Oxide-Semiconductor Field-Effect Transistor，縮寫：MOSFET），是一種可以廣泛使用在類比電路與數位電路的場效電晶體。金屬氧化物半導體場效電晶體依照其通道極性的不同，可分為電子占多數的N通道型與電洞占多數的P通道型，通常被稱為N型金氧半場效電晶體（NMOSFET）與P型金氧半場效電晶體
+MOSFET在電子電路上應用的優勢 金氧半場效電晶體在1960年由貝爾實驗室的D. Kahng和Martin Atalla首次實作成功，這種元件的操作原理和1947年蕭克利等人發明的雙載子接面電晶體截然不同，且因為製造成本低廉與使用面積較小、高整合度的優勢，在大型積體電路或是超大型積體電路的領域裡，重要性遠超過BJT。
+近年來由於金氧半場效電晶體元件的效能逐漸提升，除了傳統上應用於諸如微處理器、微控制器等數位訊號處理的場合上，也有越來越多類比訊號處理的積體電路可以用金氧半場效電晶體來實現，以下分別介紹這些應用。</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s SMU?</title>
+      <link>https://hc1973.github.io/blog/smu-2021-0216/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/smu-2021-0216/</guid>
+      <description>What&amp;rsquo;s SMU? The source measure unit (SMU), or source-measurement unit as it is sometimes called, is an electronic instrument that is capable of both sourcing and measuring at the same time.</description>
     </item>
     
     <item>

@@ -8,7 +8,7 @@
     <language>zh-tw</language>
     <lastBuildDate>Mon, 15 Feb 2021 10:11:47 +0800</lastBuildDate><atom:link href="https://hc1973.github.io/tags/good/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To Use Mark Down Language, Hahow</title>
+      <title>Make Down的說明與練習</title>
       <link>https://hc1973.github.io/blog/test1/</link>
       <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
       
@@ -19,21 +19,21 @@ title 1 title 2 title 3 title 4 title 5 title 6 I am horace.</description>
     </item>
     
     <item>
-      <title>How To Use Short Codes</title>
-      <link>https://hc1973.github.io/blog/shortcodes-test/</link>
-      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
-      
-      <guid>https://hc1973.github.io/blog/shortcodes-test/</guid>
-      <description>[Shortcodes] (https://gohugo.io/content-management/shortcodes/#readout)     Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc.</description>
-    </item>
-    
-    <item>
       <title>My 2nd Posted Article</title>
       <link>https://hc1973.github.io/blog/second/</link>
       <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
       
       <guid>https://hc1973.github.io/blog/second/</guid>
       <description>Excellent course for people who want to bulid their own professional and beautiful web site within half day!</description>
+    </item>
+    
+    <item>
+      <title>Short Code Lab</title>
+      <link>https://hc1973.github.io/blog/shortcodes-test/</link>
+      <pubDate>Mon, 15 Feb 2021 10:11:47 +0800</pubDate>
+      
+      <guid>https://hc1973.github.io/blog/shortcodes-test/</guid>
+      <description>[Shortcodes] (https://gohugo.io/content-management/shortcodes/#readout)     Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc.</description>
     </item>
     
   </channel>
